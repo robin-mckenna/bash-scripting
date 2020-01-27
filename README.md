@@ -86,3 +86,23 @@ $ Robin
 [and.sh](and.sh)
 
 [count.sh](count.sh)
+
+##### Case Statement
+
+[case.sh](case.sh)
+
+[word.sh](word.sh)
+
+##### While
+
+[while.sh](while.sh)
+
+##### Until
+
+[until.sh](until.sh)
+
+##### For
+
+[for.sh](for.sh)
+
+[for-path.sh](for-path.sh)
