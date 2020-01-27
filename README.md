@@ -24,7 +24,7 @@ $ Robin
 
 - Set will overwrite positional parameters
 - [positional-paremters.sh](positional-params.sh)
-- `$#` is a special variable that is the count of the positional parameters 
+- `$#` is a special variable that is the count of the positional parameters
 
 ### Expr and arithmetic
 
@@ -71,3 +71,18 @@ $ Robin
 
 - String conditions example - [string-conditions.sh](string-conditions.sh)
 
+#### And operator
+
+##### Operators
+
+- Less than or equal to: `-le`
+- Greater than or equal to: `-ge`
+- Equal: `-eq`
+- And `-a`
+- Or `-o`
+
+##### Examples
+
+[and.sh](and.sh)
+
+[count.sh](count.sh)
