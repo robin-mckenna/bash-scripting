@@ -106,3 +106,7 @@ $ Robin
 [for.sh](for.sh)
 
 [for-path.sh](for-path.sh)
+
+##### Functions
+
+[functions.sh](functions.sh)
